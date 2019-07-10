@@ -1,4 +1,12 @@
-# Music-Classification-based-on-lyrics
+#Group name: groupX
+
+# ProjectX in Tools For Analytics
+
+Project X is a final project for a course in Columbia, ToolsForAnalytics. The team members are:
+    a. Webber Hsu (hh2750)
+    b. Ankita Bhardwaj (ab4685)
+We are designing a scoring system to lyrics analyzing aspects such as length, complexity and etc. 
+
 
 ## Installation
 
@@ -47,7 +55,7 @@ Dimensions
 4. counting unique words for complexity dimension
 5. normalization by the max of each counts
 6. save as a json file with required format
-
+7. PROJECT DONE MIC DROP 
 
 
 ## Contributing
